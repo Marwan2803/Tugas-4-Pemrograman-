@@ -1,28 +1,28 @@
 let Store = {
-  c ini inarts: [],
+  carts: [],
   products: [
     {
       id: 1,
       name: "Jaket",
-      price: 100000,
+      price: 300000,
       quantity: 1,
     },
     {
       id: 2,
-      name: "Celana",
-      price: 50000,
+      name: "Baju",
+      price: 250000,
       quantity: 1,
     },
     {
       id: 3,
-      name: "Jam Tangan",
-      price: 200000,
+      name: "Kaca Mata",
+      price: 100000,
       quantity: 1,
     },
     {
       id: 4,
-      name: "Topi",
-      price: 70000,
+      name: "Celana",
+      price: 500000,
       quantity: 1,
     },
     {
