@@ -3,7 +3,7 @@ let Store = {
   products: [
     {
       id: 1,
-      name: "Kemeja",
+      name: "Jaket",
       price: 100000,
       quantity: 1,
     },
